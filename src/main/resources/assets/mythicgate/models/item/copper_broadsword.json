@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "mythicgate:item/copper_broadsword"
+        "layer0": "mythicgate:item/broadsword/copper_broadsword"
     }
 }

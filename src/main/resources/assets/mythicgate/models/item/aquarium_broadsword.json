@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "mythicgate:item/aquarium_broadsword"
+        "layer0": "mythicgate:item/broadsword/aquarium_broadsword"
     }
 }

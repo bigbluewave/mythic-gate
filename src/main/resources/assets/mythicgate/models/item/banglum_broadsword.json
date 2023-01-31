@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "mythicgate:item/banglum_broadsword"
+        "layer0": "mythicgate:item/broadsword/banglum_broadsword"
     }
 }

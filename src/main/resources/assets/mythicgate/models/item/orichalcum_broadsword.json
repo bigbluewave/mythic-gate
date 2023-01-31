@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "mythicgate:item/orichalcum_broadsword"
+        "layer0": "mythicgate:item/broadsword/orichalcum_broadsword"
     }
 }

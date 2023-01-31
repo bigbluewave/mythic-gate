@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "mythicgate:item/kyber_broadsword"
+        "layer0": "mythicgate:item/broadsword/kyber_broadsword"
     }
 }

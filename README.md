@@ -2,6 +2,27 @@
 
 Mythic Gate is a Fabric-based Minecraft mod that adds new equipment for Gate of Babylon based on Mythic Metals resources.
 
+### Supported
+
+The following Gate of Babylon equipment fully supports Mythic Metals:
+
+- Broadsword
+- Katana
+- Spear
+
+### Planned
+
+The following are planned but not yet supported (in no particular order):
+
+- Shield
+- Bow
+- Dagger
+- Haladie
+- Rapier
+- Scythe
+- Waraxe
+- Yoyo
+
 ## License
 
 Mythic Gate is licensed under MIT. You are free to redistribute and use this mod's code & assets, given that you also include the MIT license somewhere in your project for reference.

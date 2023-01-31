@@ -9,6 +9,6 @@ Mythic Gate is licensed under MIT. You are free to redistribute and use this mod
 ## Credits
 
 Noaaan, for Mythic Metals
-Drayler, for creating Gate of Babylon
+Draylar, for creating Gate of Babylon
 woalk, for the Gate of Babylon 1.19.2 update
 MJRamon, for assisting with Gate of Babylon 1.19.2 enchantment fix

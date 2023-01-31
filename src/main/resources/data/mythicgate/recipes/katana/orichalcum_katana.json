@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "  C",
+      " C ",
+      "S  "
+    ],
+    "key": {
+      "S": {
+        "item": "gateofbabylon:extended_stick"
+      },
+      "C": {
+        "tag": "c:orichalcum_ingots"
+      }
+    },
+    "result": {
+      "item": "mythicgate:orichalcum_katana"
+    }
+  }

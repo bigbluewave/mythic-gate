@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.orekoth.mythicgate.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "MythicGateMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

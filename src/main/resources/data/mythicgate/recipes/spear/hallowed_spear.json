@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "  C",
+      " S ",
+      "S  "
+    ],
+    "key": {
+      "S": {
+        "item": "gateofbabylon:extended_stick"
+      },
+      "C": {
+        "item": "mythicmetals:hallowed_ingot"
+      }
+    },
+    "result": {
+      "item": "mythicgate:hallowed_spear"
+    }
+  }

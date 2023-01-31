@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "  C",
+      " C ",
+      "S  "
+    ],
+    "key": {
+      "S": {
+        "item": "gateofbabylon:extended_stick"
+      },
+      "C": {
+        "item": "mythicmetals:runite_ingot"
+      }
+    },
+    "result": {
+      "item": "mythicgate:runite_katana"
+    }
+  }

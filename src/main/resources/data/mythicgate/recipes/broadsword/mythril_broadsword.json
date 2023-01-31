@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  C",
+        "CC ",
+        "SC "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "C": {
+            "tag": "c:mythril_ingots"
+        }
+    },
+    "result": {
+        "item": "mythicgate:mythril_broadsword"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "gateofbabylon:netherite_spear"
+    },
+    "addition": {
+      "item": "mythicmetals:metallurgium_ingot"
+    },
+    "result": {
+      "item": "mythicgate:metallurgium_spear"
+    }
+  }

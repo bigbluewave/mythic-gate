@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  C",
+        "CC ",
+        "SC "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "C": {
+            "tag": "c:steel_ingots"
+        }
+    },
+    "result": {
+        "item": "mythicgate:steel_broadsword"
+    }
+}

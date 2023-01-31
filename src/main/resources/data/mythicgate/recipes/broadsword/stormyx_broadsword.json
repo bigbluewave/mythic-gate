@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  C",
+        "CC ",
+        "SC "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "C": {
+            "item": "mythicmetals:stormyx_ingot"
+        }
+    },
+    "result": {
+        "item": "mythicgate:stormyx_broadsword"
+    }
+}

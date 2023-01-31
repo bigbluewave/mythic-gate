@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "  C",
+      " S ",
+      "S  "
+    ],
+    "key": {
+      "S": {
+        "item": "gateofbabylon:extended_stick"
+      },
+      "C": {
+        "item": "mythicmetals:durasteel_ingot"
+      }
+    },
+    "result": {
+      "item": "mythicgate:durasteel_spear"
+    }
+  }

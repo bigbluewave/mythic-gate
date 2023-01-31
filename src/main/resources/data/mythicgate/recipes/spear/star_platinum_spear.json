@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "  C",
+      " S ",
+      "S  "
+    ],
+    "key": {
+      "S": {
+        "item": "gateofbabylon:extended_stick"
+      },
+      "C": {
+        "item": "mythicmetals:star_platinum"
+      }
+    },
+    "result": {
+      "item": "mythicgate:star_platinum_spear"
+    }
+  }

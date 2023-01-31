@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  C",
+        "CC ",
+        "SC "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "C": {
+            "item": "mythicmetals:carmot_ingot"
+        }
+    },
+    "result": {
+        "item": "mythicgate:carmot_broadsword"
+    }
+}

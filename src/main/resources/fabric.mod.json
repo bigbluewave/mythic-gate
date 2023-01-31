@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "mythicgate",
+  "version": "${version}",
+  "name": "Mythic Gate",
+  "description": "This mod adds support for Mythic Metals to Gate of Babylon",
+  "authors": [
+    "Orekoth"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/MythicGate"
+  },
+  "license": "MIT",
+  "icon": "assets/mythicgate/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.orekoth.mythicgate.MythicGate"
+    ]
+  },
+  "mixins": [
+    "mythicgate.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16",
+    "cloth-config2": ">=5.0.30"
+  },
+  "suggests": {
+    "modmenu": ">=2.0.0"
+  }
+}

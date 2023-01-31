@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  C",
+        "CC ",
+        "SC "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "C": {
+            "item": "mythicmetals:durasteel_ingot"
+        }
+    },
+    "result": {
+        "item": "mythicgate:durasteel_broadsword"
+    }
+}

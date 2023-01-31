@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  C",
+        "CC ",
+        "SC "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "C": {
+            "item": "mythicmetals:banglum_ingot"
+        }
+    },
+    "result": {
+        "item": "mythicgate:banglum_broadsword"
+    }
+}

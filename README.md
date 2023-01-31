@@ -1,3 +1,5 @@
+Currently for Minecraft 1.17.  Further updates planned.
+
 # Mythic Gate
 
 Mythic Gate is a Fabric-based Minecraft mod that adds new equipment for Gate of Babylon based on Mythic Metals resources.

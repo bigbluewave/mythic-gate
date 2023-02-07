@@ -1,0 +1,15 @@
+{
+    "parent": "gateofbabylon:item/base_shield",
+    "textures": {
+        "layer0": "mythicgate:item/shield/steel_shield",
+        "particle": "mythicgate:item/shield/steel_shield"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "blocking": 1
+        },
+        "model": "mythicgate:item/steel_shield_blocking"
+      }
+    ]
+}

@@ -21,7 +21,5 @@ public class MythicGate implements ModInitializer {
 		// Proceed with mild caution.
 
 		MythicItems.registerModItems();
-
-		LOGGER.info("Hello Fabric world!");
 	}
 }

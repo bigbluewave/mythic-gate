@@ -1,12 +1,12 @@
 {
     "type": "minecraft:smithing",
     "base": {
-      "item": "gateofbabylon:netherite_broadsword"
+      "item": "gateofbabylon:netherite_shield"
     },
     "addition": {
       "item": "mythicmetals:metallurgium_ingot"
     },
     "result": {
-      "item": "mythicgate:metallurgium_broadsword"
+      "item": "mythicgate:metallurgium_shield"
     }
 }

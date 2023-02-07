@@ -78,6 +78,28 @@ public class MythicItems {
     public static final SpearItem STEEL_SPEAR = register("steel_spear", new SpearItem(ToolMaterials.STEEL, 6.5f, 1.4f, new Item.Settings().group(GateOfBabylon.GROUP).maxCount(1)));
     public static final SpearItem STORMYX_SPEAR = register("stormyx_spear", new SpearItem(ToolMaterials.STORMYX, 7.5f, 1.4f, new Item.Settings().group(GateOfBabylon.GROUP).maxCount(1)));
 
+    public static final CustomShieldItem ADAMANTITE_SHIELD = register("adamantite_shield", new CustomShieldItem(new Item.Settings().maxDamage(1424).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem AQUARIUM_SHIELD = register("aquarium_shield", new CustomShieldItem(new Item.Settings().maxDamage(790).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem BANGLUM_SHIELD = register("banglum_shield", new CustomShieldItem(new Item.Settings().maxDamage(770).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem BRONZE_SHIELD = register("bronze_shield", new CustomShieldItem(new Item.Settings().maxDamage(904).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem CARMOT_SHIELD = register("carmot_shield", new CustomShieldItem(new Item.Settings().maxDamage(1040).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem CELESTIUM_SHIELD = register("celestium_shield", new CustomShieldItem(new Item.Settings().maxDamage(2270).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem COPPER_SHIELD = register("copper_shield", new CustomShieldItem(new Item.Settings().maxDamage(385).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem DURASTEEL_SHIELD = register("durasteel_shield", new CustomShieldItem(new Item.Settings().maxDamage(1090).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem HALLOWED_SHIELD = register("hallowed_shield", new CustomShieldItem(new Item.Settings().maxDamage(1665).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem KYBER_SHIELD = register("kyber_shield", new CustomShieldItem(new Item.Settings().maxDamage(1119).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem METALLURGIUM_SHIELD = register("metallurgium_shield", new CustomShieldItem(new Item.Settings().maxDamage(3000).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem MYTHRIL_SHIELD = register("mythril_shield", new CustomShieldItem(new Item.Settings().maxDamage(1204).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem ORICHALCUM_SHIELD = register("orichalcum_shield", new CustomShieldItem(new Item.Settings().maxDamage(2048).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem OSMIUM_SHIELD = register("osmium_shield", new CustomShieldItem(new Item.Settings().maxDamage(824).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem PALLADIUM_SHIELD = register("palladium_shield", new CustomShieldItem(new Item.Settings().maxDamage(1404).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem PROMETHEUM_SHIELD = register("prometheum_shield", new CustomShieldItem(new Item.Settings().maxDamage(1772).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem QUADRILLUM_SHIELD = register("quadrillum_shield", new CustomShieldItem(new Item.Settings().maxDamage(804).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem RUNITE_SHIELD = register("runite_shield", new CustomShieldItem(new Item.Settings().maxDamage(1507).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem STAR_PLATINUM_SHIELD = register("star_platinum_shield", new CustomShieldItem(new Item.Settings().maxDamage(1450).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem STEEL_SHIELD = register("steel_shield", new CustomShieldItem(new Item.Settings().maxDamage(980).group(GateOfBabylon.GROUP)));
+    public static final CustomShieldItem STORMYX_SHIELD = register("stormyx_shield", new CustomShieldItem(new Item.Settings().maxDamage(1485).group(GateOfBabylon.GROUP)));
+
     private static <T extends Item> T register(String name, T item) {
         return Registry.register(Registry.ITEM, new Identifier(MythicGate.MOD_ID, name), item);
     }

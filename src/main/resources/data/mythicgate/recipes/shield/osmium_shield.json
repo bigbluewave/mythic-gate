@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CIC",
+        "CCC",
+        " C "
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "C": {
+            "tag": "c:osmium_ingots"
+        }
+    },
+    "result": {
+        "item": "mythicgate:osmium_shield"
+    }
+}

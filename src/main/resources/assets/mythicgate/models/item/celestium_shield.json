@@ -1,0 +1,15 @@
+{
+    "parent": "gateofbabylon:item/base_shield",
+    "textures": {
+        "layer0": "mythicgate:item/shield/celestium_shield",
+        "particle": "mythicgate:item/shield/celestium_shield"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "blocking": 1
+        },
+        "model": "mythicgate:item/celestium_shield_blocking"
+      }
+    ]
+}

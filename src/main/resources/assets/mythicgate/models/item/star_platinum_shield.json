@@ -1,0 +1,15 @@
+{
+    "parent": "gateofbabylon:item/base_shield",
+    "textures": {
+        "layer0": "mythicgate:item/shield/star_platinum_shield",
+        "particle": "mythicgate:item/shield/star_platinum_shield"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "blocking": 1
+        },
+        "model": "mythicgate:item/star_platinum_shield_blocking"
+      }
+    ]
+}

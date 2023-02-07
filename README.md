@@ -11,12 +11,12 @@ The following Gate of Babylon equipment fully supports Mythic Metals:
 - Broadsword
 - Katana
 - Spear
+- Shield
 
 ### Planned
 
 The following are planned but not yet supported (in no particular order):
 
-- Shield
 - Bow
 - Dagger
 - Haladie

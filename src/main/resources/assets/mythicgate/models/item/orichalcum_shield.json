@@ -1,0 +1,15 @@
+{
+    "parent": "gateofbabylon:item/base_shield",
+    "textures": {
+        "layer0": "mythicgate:item/shield/orichalcum_shield",
+        "particle": "mythicgate:item/shield/orichalcum_shield"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "blocking": 1
+        },
+        "model": "mythicgate:item/orichalcum_shield_blocking"
+      }
+    ]
+}

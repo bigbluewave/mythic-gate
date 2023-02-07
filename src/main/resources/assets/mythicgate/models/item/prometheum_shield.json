@@ -1,0 +1,15 @@
+{
+    "parent": "gateofbabylon:item/base_shield",
+    "textures": {
+        "layer0": "mythicgate:item/shield/prometheum_shield",
+        "particle": "mythicgate:item/shield/prometheum_shield"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "blocking": 1
+        },
+        "model": "mythicgate:item/prometheum_shield_blocking"
+      }
+    ]
+}

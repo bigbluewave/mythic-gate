@@ -1,12 +1,12 @@
 {
     "type": "minecraft:smithing",
     "base": {
-      "item": "gateofbabylon:diamond_broadsword"
+      "item": "gateofbabylon:diamond_shield"
     },
     "addition": {
       "item": "mythicmetals:celestium_ingot"
     },
     "result": {
-      "item": "mythicgate:celestium_broadsword"
+      "item": "mythicgate:celestium_shield"
     }
 }

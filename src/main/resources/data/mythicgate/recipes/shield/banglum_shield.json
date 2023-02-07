@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CIC",
+        "CCC",
+        " C "
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "C": {
+            "item": "mythicmetals:banglum_ingot"
+        }
+    },
+    "result": {
+        "item": "mythicgate:banglum_shield"
+    }
+}

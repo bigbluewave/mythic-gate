@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CIC",
+        "CCC",
+        " C "
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "C": {
+            "item": "mythicmetals:carmot_ingot"
+        }
+    },
+    "result": {
+        "item": "mythicgate:carmot_shield"
+    }
+}

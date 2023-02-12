@@ -105,6 +105,6 @@ public class MythicItems {
     }
 
     public static void registerModItems() {
-        System.out.println("Registering mod items for" + MythicGate.MOD_ID);
+        System.out.println("Registering mod items for " + MythicGate.MOD_ID);
     }
 }

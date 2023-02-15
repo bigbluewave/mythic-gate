@@ -12,6 +12,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class MythicGateMixin {
 	@Inject(at = @At("HEAD"), method = "init()V")
 	private void init(CallbackInfo info) {
-		MythicGate.LOGGER.info("[IN] MythicGateMixin.init()");
+		//MythicGate.LOGGER.info("[Mythic Gate] [IN] MythicGateMixin.init()");
 	}
 }

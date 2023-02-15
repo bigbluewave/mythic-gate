@@ -4,7 +4,8 @@
   "package": "net.orekoth.mythicgate.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
-    "MythicGateMixin"
+    "MythicGateMixin",
+    "MGPlayerEntityMixin"
   ],
   "client": [],
   "injectors": {

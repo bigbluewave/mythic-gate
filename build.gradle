@@ -1,5 +1,5 @@
 plugins {
-	id 'fabric-loom' version '0.10-SNAPSHOT'
+	id 'fabric-loom' version '0.12-SNAPSHOT'
 	id 'maven-publish'
 }
 
@@ -44,7 +44,7 @@ dependencies {
 
 	// REI
 	modCompileOnly "me.shedaniel:RoughlyEnoughItems-api-fabric:${project.rei_version}"
-	modRuntime "me.shedaniel:RoughlyEnoughItems-fabric:${project.rei_version}"
+	modRuntimeOnly "me.shedaniel:RoughlyEnoughItems-fabric:${project.rei_version}"
 
 	// modmenu
 	modApi("com.terraformersmc:modmenu:${project.modmenu_version}")
@@ -55,7 +55,7 @@ dependencies {
 
 	// Mythic Metals
 	modImplementation "curse.maven:mythicmetals-410127:${project.mythicmetals_id}"
-	include "curse.maven:gate-of-babylon-407500:${project.gateofbabylon_id}"
+	include "curse.maven:mythicmetals-410127:${project.mythicmetals_id}"
 
 	// java {
 	// 	// Loom will automatically attach sourcesJar to a RemapSourcesJar task and to the "build" task

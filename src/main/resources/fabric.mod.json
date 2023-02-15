@@ -17,6 +17,9 @@
   "entrypoints": {
     "main": [
       "net.orekoth.mythicgate.MythicGate"
+    ],
+    "client": [
+      "net.orekoth.mythicgate.MythicGateClient"
     ]
   },
   "mixins": [

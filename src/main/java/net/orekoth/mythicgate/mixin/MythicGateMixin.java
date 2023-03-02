@@ -1,6 +1,5 @@
 package net.orekoth.mythicgate.mixin;
 
-//import net.fabricmc.example.ExampleMod;
 import net.orekoth.mythicgate.MythicGate;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;

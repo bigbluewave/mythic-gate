@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "mythicgate:item/bow/durasteel_bow_pulling_2"
+    }
+}

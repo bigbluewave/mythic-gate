@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " CS",
+        "C S",
+        " CS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:string"
+        },
+        "C": {
+            "item": "mythicmetals:aquarium_ingot"
+        }
+    },
+    "result": {
+        "item": "mythicgate:aquarium_bow"
+    }
+}

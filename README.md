@@ -1,4 +1,5 @@
-Currently for Minecraft 1.17.  Further updates planned.
+Currently for Minecraft 1.19.2.  Further updates planned.
+Version: 0.4.6
 
 # Mythic Gate
 
@@ -12,12 +13,12 @@ The following Gate of Babylon equipment fully supports Mythic Metals:
 - Katana
 - Spear
 - Shield
+- Bow
 
 ### Planned
 
 The following are planned but not yet supported (in no particular order):
 
-- Bow
 - Dagger
 - Haladie
 - Rapier

@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "mythicgate:item/bow/orichalcum_bow_pulling_2"
+    }
+}

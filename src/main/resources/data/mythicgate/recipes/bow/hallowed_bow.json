@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " CS",
+        "C S",
+        " CS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:string"
+        },
+        "C": {
+            "item": "mythicmetals:hallowed_ingot"
+        }
+    },
+    "result": {
+        "item": "mythicgate:hallowed_bow"
+    }
+}

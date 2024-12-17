@@ -1,5 +1,5 @@
 {
-    "type": "minecraft:smithing",
+    "type": "minecraft:smithing_transform",
     "base": {
       "item": "gateofbabylon:diamond_broadsword"
     },
@@ -8,5 +8,8 @@
     },
     "result": {
       "item": "mythicgate:celestium_broadsword"
+    },
+    "template": {
+      "item": "mythicmetals:unobtainium_smithing_template"
     }
 }
